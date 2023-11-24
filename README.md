@@ -1,3 +1,3 @@
 # hello-world
-Hola mundo creado en clase
-## Seguimos probando en github
+## Hola mundo creado en clase
+### Seguimos probando en github
